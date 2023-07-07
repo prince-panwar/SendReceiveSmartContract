@@ -1,1 +1,1 @@
-# SendReceiveSmartContract
+I created this repository to store smart contracts that i have created while learning blockchain. 
